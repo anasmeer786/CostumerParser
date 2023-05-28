@@ -7,12 +7,14 @@ First name, middle name (optional), last name
 Street address, city, state (or province), country
 Phone number
 Rules
+
 • First name, middle name and last name should start with an uppercase letter followed by lower case letters. Middle name is an optional input meaning such an input may or may not exist.
 • The street address can include any type of letters or numbers. There is no lowercase/uppercase restriction either.
 • The city name should start with an uppercase letter followed by lowercase/uppercase letters.
 • The state or province should start with an uppercase letter followed by lowercase/uppercase letters.
 • The country name should start with an uppercase letter followed by lowercase/uppercase letters.
 • The phone number should begin with area code in parenthesis, followed by a space, three digits, a hyphen, and four digits.
+
 Examples
 Here are some input examples for your program:
 John Doe
